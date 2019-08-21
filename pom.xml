@@ -59,8 +59,8 @@
 		</dependency>
 		<dependency>
 		    <groupId>com.microsoft.sqlserver</groupId>
-		    <artifactId>sqljdbc41</artifactId>
-		    <version>6.0.8112</version>
+		    <artifactId>mssql-jdbc</artifactId>
+		    <version>6.1.0.jre8</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.apache.mina/mina-core -->
 		<dependency>
